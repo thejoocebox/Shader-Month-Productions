@@ -1,0 +1,43 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Rhino200DS",
+      "id_type": "OBJECT",
+      "files": [
+        "Rhino200DS.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Rhino200DS_thumbnails/Object/rhino200ds.webp",
+        "hash": "SHA256:573b7b6e4506ef36e4c623f4e7042d84a63596bf67013bce3ad83622ccb82522"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              153.26174926757812,
+              34.1939582824707,
+              112.34426879882812
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Rhino200DS.blend",
+      "size_in_bytes": 13617474,
+      "hash": "SHA256:2386acde9d784d8bebd13594f6a4c42480cd120b10578b4f2141d14dfd288bb8",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
