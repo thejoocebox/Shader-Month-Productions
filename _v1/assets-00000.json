@@ -1,6 +1,6 @@
 {
-  "asset_count": 5,
-  "file_count": 5,
+  "asset_count": 15,
+  "file_count": 15,
   "assets": [
     {
       "name": "Frog_BreakerBox",
@@ -13,7 +13,7 @@
       },
       "thumbnail": {
         "url": "Frog_BreakerBox_thumbnails/Object/frog_breakerbox.webp",
-        "hash": "SHA256:9026482737b2b7b23c06add3f491c2dc4c1fea9e6765191c0e8f7a3da1f36a4f"
+        "hash": "SHA256:1c7636f1944d3db99e8a353ac902dc49b1aaacc84b1a6e9c586a191e7e48fb03"
       },
       "meta": {
         "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
@@ -32,6 +32,151 @@
       }
     },
     {
+      "name": "Frog_Ceiling_Detailed",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Ceiling_Detailed.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Ceiling_Detailed_thumbnails/Object/frog_ceiling_detailed.webp",
+        "hash": "SHA256:d7aa6fa212bd3b5ef0d5796ab7f523a8329803e0a02af41aecee7edbc50c4fb5"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              13.096628189086914,
+              11.89851188659668,
+              2.9839115142822266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Floor",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Floor.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Floor_thumbnails/Object/frog_floor.webp",
+        "hash": "SHA256:333b848490cfddcc06711da631b287d7b753dd8c04a842b7647c4eb017eb124e"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.537053108215332,
+              10.537053108215332,
+              0.717096745967865
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Grate_Backplate_1",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Backplate_1.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Backplate_1_thumbnails/Object/frog_grate_backplate_1.webp",
+        "hash": "SHA256:98336d4f7313bd0a4cbb9d6461083d065ae8b002c18e8892717bcb50c8f8d7e8"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.6479811668395996,
+              1.0183980464935303,
+              0.12290927767753601
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Grate_Backplate_2",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Backplate_2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Backplate_2_thumbnails/Object/frog_grate_backplate_2.webp",
+        "hash": "SHA256:6c43ee083d35916e1bc9616d7e5a37619cdb47e96c110fb706095c6e77c975b1"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.6479811668395996,
+              0.9585295915603638,
+              0.12262841314077377
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Grate_Backplate_3",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Backplate_3.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Backplate_3_thumbnails/Object/frog_grate_backplate_3.webp",
+        "hash": "SHA256:1007263c0c26628ca34f6cf2e6c52d45f129affaf57772c64df6107fa9aaf797"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.4427714347839355,
+              0.7071603536605835,
+              0.14427706599235535
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Frog_Grate_Fence",
       "id_type": "OBJECT",
       "files": [
@@ -42,7 +187,7 @@
       },
       "thumbnail": {
         "url": "Frog_Grate_Fence_thumbnails/Object/frog_grate_fence.webp",
-        "hash": "SHA256:91b59f6cf62d01ec01c69377aeaf4a2b071281d342bb2420e6f1ea8d176f61d7"
+        "hash": "SHA256:d072fe6a6333338ec23630928adff51e660a5efe370d6e3f5d795ba11334a7d1"
       },
       "meta": {
         "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
@@ -53,7 +198,7 @@
             "value": [
               5.652331352233887,
               0.3543936014175415,
-              7.557901859283447
+              7.5579023361206055
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -71,7 +216,7 @@
       },
       "thumbnail": {
         "url": "Frog_Grate_Rectangle_thumbnails/Object/frog_grate_rectangle.webp",
-        "hash": "SHA256:0719fe60b33fbfdeab8d4c35bd50758cadab726798d0b4c6e5f6467d64f9400a"
+        "hash": "SHA256:28ac1ae21e3671849e24a5038bc9f5632abe00ea04e1e7c14ff2fc9f0fa6e804"
       },
       "meta": {
         "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
@@ -100,7 +245,7 @@
       },
       "thumbnail": {
         "url": "Frog_Grate_Square_thumbnails/Object/frog_grate_square.webp",
-        "hash": "SHA256:88bfca3683745ea226b63520a671e1bdc725b334fe11359c94dc0c840c9ab258"
+        "hash": "SHA256:bbd57976a0adda8e004dc96d8233d475a391792897d67ac294f5cc6a0cec0899"
       },
       "meta": {
         "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
@@ -112,6 +257,151 @@
               5.941897392272949,
               5.941897392272949,
               0.10313538461923599
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_PipeRight_UNWRAPPED",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_PipeRight_UNWRAPPED.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_PipeRight_UNWRAPPED_thumbnails/Object/frog_piperight_unwrapped.webp",
+        "hash": "SHA256:ccd5daf432cc91920a1589589d50f6f8d97eac00b5d636523c25e253b79daf05"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5112776160240173,
+              0.7465838193893433,
+              0.7508162260055542
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_PipeStraight_UNWRAPPED",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_PipeStraight_UNWRAPPED.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_PipeStraight_UNWRAPPED_thumbnails/Object/frog_pipestraight_unwrapped.webp",
+        "hash": "SHA256:ca467a2d529da7e9d5f3740d50d1ccbf47aefd03211cb4b0b7b9240d4606742c"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5112776160240173,
+              0.5112776160240173,
+              0.9818896055221558
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Wall_BaseFrame",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Wall_BaseFrame.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Wall_BaseFrame_thumbnails/Object/frog_wall_baseframe.webp",
+        "hash": "SHA256:61287b30f1025490989aff0190663165833159304c01acc33a97be0041ead1fa"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.845698356628418,
+              11.845698356628418,
+              13.503965377807617
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Wall_Exposed",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Wall_Exposed.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Wall_Exposed_thumbnails/Object/frog_wall_exposed.webp",
+        "hash": "SHA256:45d7630e5e7086f8d6ba17f7dca7a0e03ec03ecfdd25bb9549ee99b86e83b928"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.537053108215332,
+              2.122122287750244,
+              13.526069641113281
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Wall_Misc",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Wall_Misc.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Wall_Misc_thumbnails/Object/frog_wall_misc.webp",
+        "hash": "SHA256:b491b216e9cd2577f80bec82d2460a1ff9aa5524ea61073e5914491680f5585e"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.878837585449219,
+              2.7974905967712402,
+              13.178871154785156
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -151,26 +441,86 @@
   "files": [
     {
       "path": "Frog_BreakerBox.blend",
-      "size_in_bytes": 234136,
-      "hash": "SHA256:e0479ee32aa66ec54b3012fc714f92f843f04c43e24c455f0b51f0ef2399bdb6",
+      "size_in_bytes": 252402,
+      "hash": "SHA256:93640e551e81daab73e43f6240d3180849de813ada25e147b391170504b33dc8",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Ceiling_Detailed.blend",
+      "size_in_bytes": 22983972,
+      "hash": "SHA256:55deafbd2253b20e6f39a642cf9e818bc606e5165b9bc3e69c4cd3dd14b7ae40",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Floor.blend",
+      "size_in_bytes": 552151,
+      "hash": "SHA256:d726926ecb4a280ad96b9509fb08760d551663a3da75e247c3d7b08c7442f7eb",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Grate_Backplate_1.blend",
+      "size_in_bytes": 325328,
+      "hash": "SHA256:cdc94ab64692a81db784c0bc5dc89cfd88100a7a7ffd1c07ebde5b39482fe09c",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Grate_Backplate_2.blend",
+      "size_in_bytes": 282491,
+      "hash": "SHA256:b1c4b454bc18fce3bdb9135bd42d176a8dbdbbabee367980f03224a3a9ad11c0",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Grate_Backplate_3.blend",
+      "size_in_bytes": 467253,
+      "hash": "SHA256:57e4172b5cb72bbe6671c8a6d2ae7206e2c5038027c9f6a2ce100a786fc47796",
       "blender_version": "5.2.45"
     },
     {
       "path": "Frog_Grate_Fence.blend",
-      "size_in_bytes": 733705,
-      "hash": "SHA256:df424f12c6ce9ef0a864d99bcb992bbb0c3e55dad2f33f7456cfe61f89bdefaa",
+      "size_in_bytes": 761893,
+      "hash": "SHA256:8bb66837b8beadfcaba65898ba273a170e0fc0ea0a06f5c031f4e297348dcf0b",
       "blender_version": "5.2.45"
     },
     {
       "path": "Frog_Grate_Rectangle.blend",
-      "size_in_bytes": 218733,
-      "hash": "SHA256:39346f2ed453389b08d6cb3837e4c3be3dfe2dd36acb77decd8f001ede9af460",
+      "size_in_bytes": 271056,
+      "hash": "SHA256:5a990e414be6431f6ec4b520a3f1349d9e721318a1e2f6193874140f5e31d5d5",
       "blender_version": "5.2.45"
     },
     {
       "path": "Frog_Grate_Square.blend",
-      "size_in_bytes": 334584,
-      "hash": "SHA256:ade3eb2d90a609cf8abc3273a463bd9509a27582f5f6edf9b6242cab29d8726d",
+      "size_in_bytes": 368845,
+      "hash": "SHA256:7b0135478f6e8b519f7a2784418d84d6c71eb63e6dfdb353044cccb75be5c039",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_PipeRight_UNWRAPPED.blend",
+      "size_in_bytes": 197715,
+      "hash": "SHA256:6ca7b0f0a9ca1e05db30315d7ddb9cfa1e2b515987498fce0c8d7de1965817a9",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_PipeStraight_UNWRAPPED.blend",
+      "size_in_bytes": 186425,
+      "hash": "SHA256:15bb5df36e9d11c08490cf8124b692bbffdb3357ec0e87388b64cf177ab82db7",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Wall_BaseFrame.blend",
+      "size_in_bytes": 29959031,
+      "hash": "SHA256:2a2d16cf48f46bc731e2c78665ba9b1bd6e8d5064094e5c43ef4295e93bbc6b3",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Wall_Exposed.blend",
+      "size_in_bytes": 656160,
+      "hash": "SHA256:7f143147c7963c2333b7f7a4a5ae5ddf1d461e783cb3a67bb7b2541d9bd656df",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Wall_Misc.blend",
+      "size_in_bytes": 3675489,
+      "hash": "SHA256:fd8b675ae91ea6d85fc2b7c47b960dd870ca1b0c2c80c22a0ca2c9fdbd91aa92",
       "blender_version": "5.2.45"
     },
     {
