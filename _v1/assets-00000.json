@@ -1,7 +1,94 @@
 {
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_count": 4,
+  "file_count": 4,
   "assets": [
+    {
+      "name": "Frog_Grate_Fence",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Fence.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Fence_thumbnails/Object/frog_grate_fence.webp",
+        "hash": "SHA256:91b59f6cf62d01ec01c69377aeaf4a2b071281d342bb2420e6f1ea8d176f61d7"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.652331352233887,
+              0.3543936014175415,
+              7.557901859283447
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Grate_Rectangle",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Rectangle.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Rectangle_thumbnails/Object/frog_grate_rectangle.webp",
+        "hash": "SHA256:0719fe60b33fbfdeab8d4c35bd50758cadab726798d0b4c6e5f6467d64f9400a"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              12.178681373596191,
+              7.373304843902588,
+              0.37538671493530273
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Frog_Grate_Square",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_Grate_Square.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_Grate_Square_thumbnails/Object/frog_grate_square.webp",
+        "hash": "SHA256:88bfca3683745ea226b63520a671e1bdc725b334fe11359c94dc0c840c9ab258"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.941897392272949,
+              5.941897392272949,
+              0.10313538461923599
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "Rhino200DS",
       "id_type": "OBJECT",
@@ -33,6 +120,24 @@
     }
   ],
   "files": [
+    {
+      "path": "Frog_Grate_Fence.blend",
+      "size_in_bytes": 733705,
+      "hash": "SHA256:df424f12c6ce9ef0a864d99bcb992bbb0c3e55dad2f33f7456cfe61f89bdefaa",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Grate_Rectangle.blend",
+      "size_in_bytes": 218733,
+      "hash": "SHA256:39346f2ed453389b08d6cb3837e4c3be3dfe2dd36acb77decd8f001ede9af460",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "Frog_Grate_Square.blend",
+      "size_in_bytes": 334584,
+      "hash": "SHA256:ade3eb2d90a609cf8abc3273a463bd9509a27582f5f6edf9b6242cab29d8726d",
+      "blender_version": "5.2.45"
+    },
     {
       "path": "Rhino200DS.blend",
       "size_in_bytes": 13617474,

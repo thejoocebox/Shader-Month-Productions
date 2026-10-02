@@ -1,18 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 13617474,
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_size_bytes": 14904496,
+  "asset_count": 4,
+  "file_count": 4,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:4e2782de55441b189817bcd3e64b3d641e2d2e02b3a812ee5097f59267f6ed82"
+      "hash": "SHA256:90f3b41973737b4d8d2051be35dd30f69557593b3204d545fbd4d02d071ef259"
     }
   ],
   "catalogs": [
     {
       "path": "Meshes",
       "uuids": [
+        "1a89b885-62f4-4eef-bba9-e1820cc7e52f",
         "6728b6a1-196d-4638-9a7f-7a9c714a4f6b"
       ],
       "simple_name": "Meshes"
