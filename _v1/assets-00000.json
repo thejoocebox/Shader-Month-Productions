@@ -1,7 +1,36 @@
 {
-  "asset_count": 4,
-  "file_count": 4,
+  "asset_count": 5,
+  "file_count": 5,
   "assets": [
+    {
+      "name": "Frog_BreakerBox",
+      "id_type": "OBJECT",
+      "files": [
+        "Frog_BreakerBox.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Frog_BreakerBox_thumbnails/Object/frog_breakerbox.webp",
+        "hash": "SHA256:9026482737b2b7b23c06add3f491c2dc4c1fea9e6765191c0e8f7a3da1f36a4f"
+      },
+      "meta": {
+        "catalog_id": "6728b6a1-196d-4638-9a7f-7a9c714a4f6b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.8505699634552002,
+              1.113128423690796,
+              0.4769948124885559
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "Frog_Grate_Fence",
       "id_type": "OBJECT",
@@ -120,6 +149,12 @@
     }
   ],
   "files": [
+    {
+      "path": "Frog_BreakerBox.blend",
+      "size_in_bytes": 234136,
+      "hash": "SHA256:e0479ee32aa66ec54b3012fc714f92f843f04c43e24c455f0b51f0ef2399bdb6",
+      "blender_version": "5.2.45"
+    },
     {
       "path": "Frog_Grate_Fence.blend",
       "size_in_bytes": 733705,
