@@ -1,6 +1,6 @@
 {
-  "asset_count": 15,
-  "file_count": 15,
+  "asset_count": 60,
+  "file_count": 18,
   "assets": [
     {
       "name": "Frog_BreakerBox",
@@ -409,6 +409,1311 @@
       }
     },
     {
+      "name": "Asteroid_Station_Floor_LargePlate1",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/asteroid_station_floor_largeplate1.webp",
+        "hash": "SHA256:a24126f83911315d19b6cd7c476521788334e53dbf506acaae95d5395640a1e5"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.528840065002441,
+              94.89070892333984,
+              47.84764862060547
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Floor_LargePlate2",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/asteroid_station_floor_largeplate2.webp",
+        "hash": "SHA256:70d8b93753a2fe408d613ad0b1292a16c6f4cc18b07b976b363cbb34e5985479"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.386452674865723,
+              94.89070129394531,
+              47.847660064697266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Floor_MediumPlate3",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/asteroid_station_floor_mediumplate3.webp",
+        "hash": "SHA256:0f157f70bec1eca04021d220f77c6fb1f9530b06aaeb8921b9b74f3976efaac4"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.21375560760498,
+              63.626548767089844,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Floor_SmallPlate1",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/asteroid_station_floor_smallplate1.webp",
+        "hash": "SHA256:6e2a78c1484787ce7f036d07de8ff5d158ac1a92c5b9f1c194a686806dc641cb"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.269233226776123,
+              32.722896575927734,
+              47.84761047363281
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Floor_SmallPlate3",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/asteroid_station_floor_smallplate3.webp",
+        "hash": "SHA256:34a1fcf5eb9f4c6a920b63fc2cf67d7135759c1d5eba57446240cf73657b75ef"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.259929180145264,
+              32.71904754638672,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DecorPlate1.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/decorplate1001.webp",
+        "hash": "SHA256:80bf86d8a7910db4938cf1e8df1cccbc72970524a46893e32a7413cc8cfbc855"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.7120150327682495,
+              10.305590629577637,
+              47.84526062011719
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DecorPlate2.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/decorplate2001.webp",
+        "hash": "SHA256:eb8f08f1f4e0e6e5a2389ba128c4d84ec50bbb52bb068eb407de27fd06f72490"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              8.229440689086914,
+              10.300177574157715,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DecorPlate3.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/decorplate3001.webp",
+        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.2071995735168457,
+              10.30172348022461,
+              47.847660064697266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DecorPlate4.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/decorplate4001.webp",
+        "hash": "SHA256:911d0b8cf3872cc3ed97449eb4d1eb52c611abb03032cfa33cb903c0279f2b6e"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              6.658514499664307,
+              10.300180435180664,
+              47.847660064697266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DecorPlate5.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/decorplate5001.webp",
+        "hash": "SHA256:28309ae37456f2789439ce9ebf71db450aaadce9bcdeca8f01ea170a3a9904ec"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              6.038127899169922,
+              10.300175666809082,
+              47.847660064697266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MediumPlate2_MidPoly.002",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/mediumplate2_midpoly002.webp",
+        "hash": "SHA256:1924734b031869979f98e914fb73a1d1bf801414321f0d8197ea11927fbd93b3"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.680245876312256,
+              68.93220520019531,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MediumPlate3_Midpoly",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/mediumplate3_midpoly.webp",
+        "hash": "SHA256:b4309904922d759f1cc6d4263a5bece5e5db771f09e2de0440dd639a06d9b8ac"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.21375560760498,
+              63.626548767089844,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MediumPlate3_Midpoly.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/mediumplate3_midpoly001.webp",
+        "hash": "SHA256:0f157f70bec1eca04021d220f77c6fb1f9530b06aaeb8921b9b74f3976efaac4"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.21375560760498,
+              63.626548767089844,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallPlate1MidPoly.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/smallplate1midpoly001.webp",
+        "hash": "SHA256:a3c11b11bebe04ea7a49c13842a7e0992615edf0887133d4ffa5a433461b6427"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.269233226776123,
+              32.722896575927734,
+              47.84761047363281
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallPlate3MidPoly.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/smallplate3midpoly001.webp",
+        "hash": "SHA256:85872d7ea8933067cc4afb183dced8fec884d1a01e3b7dc0486bb41f9b84fc93"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.259929180145264,
+              32.71904754638672,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallPlate3MidPoly.002",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Floor_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Floor_Kitbash_thumbnails/Object/smallplate3midpoly002.webp",
+        "hash": "SHA256:26b96dc061e10e1fbc99b89be2c596e493e410dde80ea82c285d98021f74acb4"
+      },
+      "meta": {
+        "catalog_id": "37157dc3-4f55-414f-83ac-c916a1b13495",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.259929180145264,
+              38.04364776611328,
+              47.84765625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cargo_S2B",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/cargo_s2b.webp",
+        "hash": "SHA256:cac56733f2ab4436b81cec4b7daea3d626e66679375dfea93e94bfebbcc1c512"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              14.619125366210938,
+              61.83845520019531,
+              20.036819458007812
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S0A",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s0a.webp",
+        "hash": "SHA256:d6901ce741fda1e658b5815aebb588228710f2bccc313eecf6a71af79f1fd10d"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.9910993576049805,
+              12.511719703674316,
+              5.901695728302002
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S0B",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s0b.webp",
+        "hash": "SHA256:394b44726d008149a4ea80c75ebe56202d8979aacf7635aca89b49b5309209d0"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              7.774964332580566,
+              16.39136505126953,
+              5.453409194946289
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S1A",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s1a.webp",
+        "hash": "SHA256:670e9442e095118db24c1d53bfa171e1648378f58029580e0a19be6d3b7963bd"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              15.137771606445312,
+              39.74128723144531,
+              12.530610084533691
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S1B",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s1b.webp",
+        "hash": "SHA256:ae1837dfce6c92a72437f36555805d494a91044953ee9479e45cfc0ce8c7bb22"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              18.0236759185791,
+              33.771968841552734,
+              6.865071773529053
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S2A",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s2a.webp",
+        "hash": "SHA256:8d3cbb2a01f8fba7be5b97fda28e0ffbf407364bac71b242305dc3dfdaf2cbec"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              24.694320678710938,
+              51.891849517822266,
+              16.396957397460938
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S3A",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s3a.webp",
+        "hash": "SHA256:ed9939422ac3eebbccd1b5ca39e2ca41b30ce043193b474be4ef5a8cad83a62e"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              17.960689544677734,
+              81.03044128417969,
+              25.471590042114258
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S5A",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s5a.webp",
+        "hash": "SHA256:aef5cd5abf028a59087b7bf7b11deb00f16f52bdfd43f8d42564fd82eec956c4"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              66.74418640136719,
+              143.23207092285156,
+              33.565853118896484
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Combat_S6B",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/combat_s6b.webp",
+        "hash": "SHA256:916c4ca32f39e7a4a1f2dddada8db53799ad4814437a6d796f9f7d29711fed0c"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              89.29007720947266,
+              204.98838806152344,
+              67.25247955322266
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "S2B_Combat",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Ships_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Ships_Kitbash_thumbnails/Object/s2b_combat.webp",
+        "hash": "SHA256:94833762f57d8376c1cb578e746daa5f7a9008849e4753e7d259d2ae7a7f0d0b"
+      },
+      "meta": {
+        "catalog_id": "bd30892d-9165-4e14-a268-3ad171568e97",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              37.69524002075195,
+              48.51956558227539,
+              15.438803672790527
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Command",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_command.webp",
+        "hash": "SHA256:9f5b69a506e01dcab192ec766ae5b22730c35d064a15067b536734093d74c632"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              12.015969276428223,
+              26.976844787597656,
+              21.514265060424805
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Corner1",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_corner1.webp",
+        "hash": "SHA256:735837217afbddf4a9470b1e542aa8859e773a91dbeafc69a6da58551b40712b"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              80.00003051757812,
+              79.99998474121094,
+              110.12822723388672
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Corner2.002",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_corner2002.webp",
+        "hash": "SHA256:7d1b04c3e379814a87b2f441d6953e3fab492bae7f2a013c7cc126079ef5b686"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              27.08899688720703,
+              27.088985443115234,
+              109.96463012695312
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_CutIn.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_cutin001.webp",
+        "hash": "SHA256:e376803ca382390a4079270ff6d49dc273c9153e2f781114a360a6ecd345a4e1"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              42.414119720458984,
+              53.333370208740234,
+              119.6169662475586
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Dock",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_dock.webp",
+        "hash": "SHA256:3d7428bcbe88d9981a08f14fc075cda5836f6f3092c5cffbc001ee8d6af83ede"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              24.906930923461914,
+              32.66439437866211,
+              106.71111297607422
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Dock.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_dock001.webp",
+        "hash": "SHA256:a8ac4d537ca2d875db1dc333103c5dcfc5f317052d2993c4f1024f4c7381f807"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              24.906930923461914,
+              32.66439437866211,
+              106.71111297607422
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_EndPiece",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_endpiece.webp",
+        "hash": "SHA256:56bbe52765177986787321c1f19b819c18fcc178729d41d24059c980d692c08c"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              214.177978515625,
+              70.4697036743164,
+              180.34405517578125
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_EndPiece.002",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_endpiece002.webp",
+        "hash": "SHA256:b6a2516d61c1b662b686084f8cbf45d241c4d9c0e3ebeab681e0655914beb3b7"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              44.93411636352539,
+              26.40969467163086,
+              48.01984786987305
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_EndPiece.003",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_endpiece003.webp",
+        "hash": "SHA256:77d7feff4801034218b680f153df9e5ebd15d5b2722eebf406c97cdba8129de0"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              19.437271118164062,
+              42.26560974121094,
+              44.27255630493164
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_EndPiece.004",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_endpiece004.webp",
+        "hash": "SHA256:b941f39da771cc9de5c4347aaad51806653d2a0882943fb5eda79222deacc10d"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              40.93516540527344,
+              42.26560974121094,
+              44.27256393432617
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_EndPiece.005",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_endpiece005.webp",
+        "hash": "SHA256:09804de05ade17714f0ba5f1ecc1da84602456ca5585ce651b83feab61cbfe2d"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              22.117862701416016,
+              26.40968894958496,
+              22.566123962402344
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Hab1",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_hab1.webp",
+        "hash": "SHA256:a89fe20a26553c1c019944f1434e5fb558b683ce37822fb9e531f9c23bd72e0e"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              27.19532585144043,
+              80.000244140625,
+              110.11084747314453
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Hab1_module",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_hab1_module.webp",
+        "hash": "SHA256:6105773acaa2ae237372e103cf2e2dec8894ed2ae4145c503fe822222d2a1ea2"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              25.23085594177246,
+              64.30143737792969,
+              90.13909149169922
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Hab1_module.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_hab1_module001.webp",
+        "hash": "SHA256:b6294dfd9203509ca4ddfaec7731984f6fd27f8e8d9d373eebbef57a63898563"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              25.23085594177246,
+              64.30143737792969,
+              90.13909149169922
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Hab2",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_hab2.webp",
+        "hash": "SHA256:47e429865a87a66ce094e184844368a86de0b3d11a368338da4b08bbc6284823"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              52.39986801147461,
+              63.454559326171875,
+              89.6705322265625
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Hangar.001",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_hangar001.webp",
+        "hash": "SHA256:d0e71289f9c036509ff5e1f5eea630a0eaf0e27f64e97122f2bdbd313674341f"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              129.34042358398438,
+              160.00045776367188,
+              113.55917358398438
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Panel1",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_panel1.webp",
+        "hash": "SHA256:4123598ce317590d252923356eb525d7cc6ef2c5dbda2e94ef6e2cf8fcfd0a9f"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              27.19532585144043,
+              26.666748046875,
+              110.11035919189453
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Asteroid_Station_Wall_Panel3",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/asteroid_station_wall_panel3.webp",
+        "hash": "SHA256:1a8219aa7f7045efecf7ffc06c1e8fad60f99935e1fb7212727e1948c396ca13"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              27.19532585144043,
+              80.000244140625,
+              110.11035919189453
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "wall_2_hole",
+      "id_type": "OBJECT",
+      "files": [
+        "NONFrog_Wall_Kitbash.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "NONFrog_Wall_Kitbash_thumbnails/Object/wall_2_hole.webp",
+        "hash": "SHA256:bbacdd7243719d4c94d645ff8f7f71fed199b200cef1ee99ab4923aa1268f61b"
+      },
+      "meta": {
+        "catalog_id": "4b7d914f-0c1a-45f9-85a1-462be03a9b6d",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              44.58011245727539,
+              53.333499908447266,
+              110.11036682128906
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Rhino200DS",
       "id_type": "OBJECT",
       "files": [
@@ -521,6 +1826,24 @@
       "path": "Frog_Wall_Misc.blend",
       "size_in_bytes": 3675489,
       "hash": "SHA256:fd8b675ae91ea6d85fc2b7c47b960dd870ca1b0c2c80c22a0ca2c9fdbd91aa92",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "NONFrog_Floor_Kitbash.blend",
+      "size_in_bytes": 726787,
+      "hash": "SHA256:9d99d4201803e822919e9bc2310e8969718adec00cea489d56ed7d000a89bd9d",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "NONFrog_Ships_Kitbash.blend",
+      "size_in_bytes": 9433332,
+      "hash": "SHA256:5ccee6a5bebdc2ba8cbdc1ba13eac8bc406225342b0396918541c04032eb1a5c",
+      "blender_version": "5.2.45"
+    },
+    {
+      "path": "NONFrog_Wall_Kitbash.blend",
+      "size_in_bytes": 3615860,
+      "hash": "SHA256:a007df8784b896b54520ae1fcb7a8220482a7be329e687602dc4b31bebac763f",
       "blender_version": "5.2.45"
     },
     {

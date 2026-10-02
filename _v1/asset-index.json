@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 74557685,
-  "asset_count": 15,
-  "file_count": 15,
+  "asset_size_bytes": 88333664,
+  "asset_count": 60,
+  "file_count": 18,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:8335124bfe10c812f39f1467160bc06249e61e2be697287a09019d76bf79a375"
+      "hash": "SHA256:89d0521b1205f067d6a520cd14961052aecf490053c75a7a506a85fc880f5c42"
     }
   ],
   "catalogs": [
@@ -17,6 +17,34 @@
         "6728b6a1-196d-4638-9a7f-7a9c714a4f6b"
       ],
       "simple_name": "Meshes"
+    },
+    {
+      "path": "Non Frog Kitbash Assets",
+      "uuids": [
+        "859678fb-56a8-4a7d-a677-d38f9ad291fd"
+      ],
+      "simple_name": "Non Frog Kitbash Assets"
+    },
+    {
+      "path": "Non Frog Kitbash Assets/Floors",
+      "uuids": [
+        "37157dc3-4f55-414f-83ac-c916a1b13495"
+      ],
+      "simple_name": "Non Frog Kitbash Assets-Floors"
+    },
+    {
+      "path": "Non Frog Kitbash Assets/Ships",
+      "uuids": [
+        "bd30892d-9165-4e14-a268-3ad171568e97"
+      ],
+      "simple_name": "Non Frog Kitbash Assets-Ships"
+    },
+    {
+      "path": "Non Frog Kitbash Assets/Walls",
+      "uuids": [
+        "4b7d914f-0c1a-45f9-85a1-462be03a9b6d"
+      ],
+      "simple_name": "Non Frog Kitbash Assets-Walls"
     }
   ]
 }
